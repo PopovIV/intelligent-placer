@@ -42,4 +42,4 @@
 Фотографии лежат в директории [objects](objects)
 
 # Тесты
-Фотографии лежат в директории [test cases](test cases)
+Фотографии лежат в директории [test_cases](test_cases)
